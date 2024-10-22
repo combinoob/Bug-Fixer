@@ -1,0 +1,10 @@
+{
+    "constants.py": [],
+    "embedding_qa.py": ["llm.py"],
+    "empty_file_check.py": ["constants.py"],
+    "get_response.py": ["constants.py", "get_prompt.py"],
+    "input_validation.py": [],
+    "get_prompt.py": ["constants.py"],
+    "llm.py": [],
+    "load_files_to_docs.py": []
+}
